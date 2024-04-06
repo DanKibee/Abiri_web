@@ -63,6 +63,7 @@ code {
 .background-image {
   position: relative;
   width: 100%;
+  margin-top: 100px;
   height: 100%;
   background-image: url('naroibi.jpg'); /* Specify the path to your background image */
   background-size: cover;
@@ -95,3 +96,4 @@ code {
 .privacy-link:hover {
   background-color: rgba(0, 0, 0, 0.7);
 }
+

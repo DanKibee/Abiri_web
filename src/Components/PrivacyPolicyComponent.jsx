@@ -89,7 +89,7 @@ function PrivacyPolicyContent() {
       <p>
         If you have any questions or concerns about our Privacy Policy or the
         handling of your personal information, please contact us at{" "}
-        <a href="mailto:contact@abiriafrica.com">contact@abiriafrica.com</a>.
+        <a href="mailto:abiriafrica@gmail.com">contact@abiriafrica.com</a>.
       </p>
       <h2>7. Changes to This Policy</h2>
       <p>

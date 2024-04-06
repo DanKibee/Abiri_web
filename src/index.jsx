@@ -6,6 +6,7 @@ import './index.css';
 import App from './App';
 import Home from './Components/Home';
 import PrivacyPolicyContent from './Components/PrivacyPolicyComponent';
+import DeleteAccount from './Components/DeleteAccount';
 
 const root = document.getElementById('root');
 
@@ -16,7 +17,8 @@ if (import.meta.env.DEV && !(root instanceof HTMLElement)) {
 }
 
 render(() => (
-<Router>
+<Router >
+    <Route path="/delete_user" component={DeleteAccount} />
     <Route path="/privacy_policy" component={PrivacyPolicyContent} />
     <Route path="/" component={Home} />
   </Router>
