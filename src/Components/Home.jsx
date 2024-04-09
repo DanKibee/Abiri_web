@@ -1,4 +1,3 @@
-import logo from '../naroibi.jpg'
 
 function Home() {
     return (

@@ -63,7 +63,6 @@ code {
 .background-image {
   position: relative;
   width: 100%;
-  margin-top: 100px;
   height: 100%;
   background-image: url('naroibi.jpg'); /* Specify the path to your background image */
   background-size: cover;
@@ -72,7 +71,7 @@ code {
 
 .title {
   position: absolute;
-  top: 50px; /* Adjust as needed */
+  top: 50px;
   left: 50%;
   transform: translateX(-50%);
   color: white;
@@ -82,7 +81,7 @@ code {
 
 .privacy-link {
   position: absolute;
-  bottom: 20px; /* Adjust as needed */
+  bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
   color: white;
