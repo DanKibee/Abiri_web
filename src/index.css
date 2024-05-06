@@ -51,48 +51,5 @@ code {
   color: #007bff;
   text-decoration: none;
 }
-/* home.css */
 
-.home-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-.background-image {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  background-image: url('naroibi.jpg'); /* Specify the path to your background image */
-  background-size: cover;
-  background-position: center;
-}
-
-.title {
-  position: absolute;
-  top: 50px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: white;
-  font-size: 2.5rem;
-  text-align: center;
-}
-
-.privacy-link {
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: white;
-  font-size: 1rem;
-  text-decoration: none;
-  padding: 10px 20px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 5px;
-}
-
-.privacy-link:hover {
-  background-color: rgba(0, 0, 0, 0.7);
-}
 
